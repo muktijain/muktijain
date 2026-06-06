@@ -15,6 +15,10 @@
 
 </div>
 
+-------------
+
+![Snake animation](https://github.com/muktijain/muktijain/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 🧑‍💻 About Me

@@ -25,7 +25,7 @@ const mukti = {
   location  : "India 🇮🇳",
   stack     : ["React", "Node.js", "Express", "MongoDB"],
   experience: ["ATF-Labs Intern 🏢", "GSoC 2026 Contributor 🌍"],
-  currently : "Building cool stuff & actively job hunting 👀",
+  currently : "Building full-stack web applications 👀",
   contact   : "05muktijain@gmail.com",
   fun_fact  : "I built Snake 🐍 in vanilla JS — and yes, it has sound effects!"
 }
@@ -51,6 +51,7 @@ const mukti = {
 
 **Languages & Tools**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)

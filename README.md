@@ -63,9 +63,6 @@ const mukti = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muktijain&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muktijain&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180" />
-
 </div>
 
 <div align="center">

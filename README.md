@@ -76,14 +76,6 @@ const mukti = {
 
 ---
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/muktijain/muktijain/output/snake.svg)
-
-</div>
-
----
-
 
 ## 🤝 Let's Connect
 
